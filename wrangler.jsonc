@@ -1,0 +1,6 @@
+{
+  "name": "web-server",
+  "main": "src/worker.py",
+  "compatibility_date": "2026-10-11",
+  "compatibility_flags": ["python_workers"]
+}
